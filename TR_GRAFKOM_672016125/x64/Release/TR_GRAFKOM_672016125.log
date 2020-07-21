@@ -1,0 +1,36 @@
+﻿  Main.cpp
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(160,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(356,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(371,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(388,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(396,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(462,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(463,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(469,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(470,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(493,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(494,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(499,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(500,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(535,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(542,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(570,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(571,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(577,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(580,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(583,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(586,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(590,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(591,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(596,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(597,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(603,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(604,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(609,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\TR_GRAFKOM_672016125\Main.cpp(610,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating code
+  21 of 22 functions (95.5%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TR_GRAFKOM_672016125.vcxproj -> C:\Users\Ballecoz\Desktop\Github\TR_GRAFKOM_672016125\x64\Release\TR_GRAFKOM_672016125.exe
